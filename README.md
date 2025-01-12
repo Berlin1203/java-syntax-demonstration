@@ -1,1 +1,1 @@
-# java-syntax-demonstration
+Here’s a demonstration of basic Java syntax, covering various fundamental concepts such as variables, data types, control structures, methods, and classes. This will give you a good overview of how Java code is structured.
